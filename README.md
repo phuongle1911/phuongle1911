@@ -9,12 +9,12 @@ I am proficient at:
 - Javascript
 - Python
 - Flask
-- Javascript
+- Postgresql
 
 Below is what I have done so far:
-- Creating portfolio website: [Phuong's portfolio website](https://phuong-le.id.au/)
-- Building a CLI Software Application for Project Cost Tracking
-- Building an API 
+- Create portfolio website: [Phuong's portfolio website](https://phuong-le.netlify.app/)
+- Build a CLI Software Application for Project Cost Tracking
+- Build an API 
 
 Visit my Linkedin profile at [Phuong Le linkedin](https://www.linkedin.com/in/phuongle1911/)
 
