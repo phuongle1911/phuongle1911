@@ -7,11 +7,12 @@ I love learning new tools and concepts, building projects, figuring out problem 
 I am proficient at:
 - HTML/ CSS
 - Javascript
-- ExpressJs
+- Express.js
 - React
 - Python
 - Flask
 - Postgresql
+- MongoDB
 
 Below is what I have done so far:
 - Created portfolio website: [Phuong's portfolio website](https://phuong-le.netlify.app/)
