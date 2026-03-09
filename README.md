@@ -2,7 +2,7 @@
 
 I used to work as an Environmental Engineer, but over time, I found myself more interested in coding and knowing how computer works. So, I decided to make a change and joined the Full Stack Web Development Bootcamp at Coder Academy. It’s been a great experience ever since.
 
-I love learning new tools and concepts, building projects, figuring out problem causes and fixing them. Below is my skills and projects that I have done so far, and this is to be continued.
+I love learning new tools and concepts, building projects, figuring out problem causes and fixing them. Below is my skills I have developed so far, and this is to be continued.
 
 I am proficient at:
 - HTML/ CSS
